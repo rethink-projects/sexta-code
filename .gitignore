@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Jest
+coverage/
+
+# Logs
+logs/
+
+# Arquivos de configuração
+.env
+.env.local
