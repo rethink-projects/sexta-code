@@ -4,7 +4,7 @@
  * Para números que são múltiplos de ambos, imprime "FizzBuzz".
  */
 
-function fizzBuzz() {
+function fizzBuzz(num) {
   // Função para imprimir FizzBuzz de 1 a 100
 }
 
